@@ -1,4 +1,4 @@
-package com.caribbean.login_page.controller;
+package com.caribbean.login_page.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
